@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaneM2
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently enrolled in a data analytics program (BAS)
+- 🌱 I’m a recent graduate in the data analytics program (BAS)
 - 📫 How to reach me - dane.turnbull@outlook.com
 
 <!---
